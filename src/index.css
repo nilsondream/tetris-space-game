@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  background-color: black;
+  color: white;
+  font-family: 'Press Start';
+}
+
+@font-face {
+  font-family: 'Press Start';
+  src: url('font/PressStart.ttf');
+}
